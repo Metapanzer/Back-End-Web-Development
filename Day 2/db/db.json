@@ -1,0 +1,57 @@
+{
+  "users": [
+    {
+      "UID": 1671540757410,
+      "username": "sandy",
+      "email": "sandy@mail.com",
+      "password": "1234sandy",
+      "role": "admin"
+    }
+  ],
+  "movies": [
+    {
+      "name": "Weathering with You",
+      "release_date": 21,
+      "release_month": "08",
+      "release_year": 2021,
+      "duration_min": 111,
+      "genre": "Romantic",
+      "status": "On Show",
+      "location": "Bandung",
+      "time": "9 AM"
+    },
+    {
+      "name": "Garuda di Dadaku",
+      "release_date": 18,
+      "release_month": "06",
+      "release_year": 2009,
+      "duration_min": 150,
+      "genre": "Drama",
+      "status": "On Show",
+      "location": "Batam",
+      "time": "12 AM"
+    },
+    {
+      "name": "Leverage",
+      "release_date": 7,
+      "release_month": "12",
+      "release_year": 2008,
+      "duration_min": 42,
+      "genre": "Crime",
+      "status": "Upcoming",
+      "location": "Jakarta",
+      "time": "10 AM"
+    },
+    {
+      "name": "Criminal Minds",
+      "release_date": 1,
+      "release_month": "02",
+      "release_year": 2012,
+      "duration_min": 55,
+      "genre": "Mystery",
+      "status": "Upcoming",
+      "location": "Serpong",
+      "time": "11 PM"
+    }
+  ]
+}
