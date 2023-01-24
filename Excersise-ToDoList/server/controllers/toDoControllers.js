@@ -1,3 +1,4 @@
+//Import dependencies
 const db = require("../connection/conn");
 const util = require("util");
 const query = util.promisify(db.query).bind(db);
